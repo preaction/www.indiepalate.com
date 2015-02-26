@@ -8,7 +8,7 @@ blog_app:
 deploy:
   args:
     remote: deploy
-    branch: master
+    branch: deploy
   class: Statocles::Deploy::Git
 
 page_app:

@@ -12,9 +12,10 @@ page_app:
   args:
     store: page
     url_root: /page
-  class: Statocles::App::Blog
+  class: Statocles::App::Plain
 site:
   args:
+    base_url: http://indiepalate.com
     apps:
       blog:
         $ref: blog_app
@@ -22,6 +23,8 @@ site:
         $ref: page_app
       static:
         $ref: static_app
+      images:
+        $ref: images_app
     deploy:
       $ref: deploy
     index: blog
@@ -31,13 +34,18 @@ site:
           title: Blog
     theme:
       $ref: theme
-    title: My Statocles Site
+    title: Indie(scriminate) Palate
   class: Statocles::Site
 static_app:
   args:
     store: static
     url_root: /static
-  class: Statocles::App::Blog
+  class: Statocles::App::Static
+images_app:
+  args:
+    store: images
+    url_root: /images
+  class: Statocles::App::Static
 theme:
   args:
     store: theme

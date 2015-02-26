@@ -1,0 +1,44 @@
+---
+blog_app:
+  args:
+    store: blog
+    url_root: /blog
+  class: Statocles::App::Blog
+deploy:
+  args:
+    branch: master
+  class: Statocles::Deploy::Git
+page_app:
+  args:
+    store: page
+    url_root: /page
+  class: Statocles::App::Blog
+site:
+  args:
+    apps:
+      blog:
+        $ref: blog_app
+      page:
+        $ref: page_app
+      static:
+        $ref: static_app
+    deploy:
+      $ref: deploy
+    index: blog
+    nav:
+      main:
+        - href: /
+          title: Blog
+    theme:
+      $ref: theme
+    title: My Statocles Site
+  class: Statocles::Site
+static_app:
+  args:
+    store: static
+    url_root: /static
+  class: Statocles::App::Blog
+theme:
+  args:
+    store: theme
+  class: Statocles::Theme

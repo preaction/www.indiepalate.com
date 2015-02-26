@@ -4,15 +4,19 @@ blog_app:
     store: blog
     url_root: /blog
   class: Statocles::App::Blog
+
 deploy:
   args:
+    remote: deploy
     branch: master
   class: Statocles::Deploy::Git
+
 page_app:
   args:
     store: page
     url_root: /page
   class: Statocles::App::Plain
+
 site:
   args:
     base_url: http://indiepalate.com
@@ -36,16 +40,19 @@ site:
       $ref: theme
     title: Indie(scriminate) Palate
   class: Statocles::Site
+
 static_app:
   args:
     store: static
     url_root: /static
   class: Statocles::App::Static
+
 images_app:
   args:
     store: images
     url_root: /images
   class: Statocles::App::Static
+
 theme:
   args:
     store: theme

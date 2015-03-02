@@ -1,5 +1,4 @@
 ---
-last_modified: 2015-02-15 20:53:28
 tags: 'pasta, cheese, spicy, sausage'
 title: Spicy Penne and Sausage
 ---

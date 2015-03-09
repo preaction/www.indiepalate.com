@@ -18,6 +18,8 @@ allowing you to customize your burrito experience.
 
 Just remember the one rule: Bigger is better!
 
+![](/images/beef-and-bean-burritos/glamour-shot.jpg)
+
 ---
 
 ## Ingredients

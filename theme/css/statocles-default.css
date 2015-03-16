@@ -158,6 +158,9 @@ img.u-pull-left, img.u-pull-right {
     font-size: 1em;
 }
 
+.sidebar {
+    font-size: 0.8em;
+}
 
 /** Pager widget */
 ul.pager {

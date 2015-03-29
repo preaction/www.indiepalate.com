@@ -23,6 +23,8 @@ site:
     apps:
       blog:
         $ref: blog_app
+      kitchen:
+        $ref: kitchen_log
       page:
         $ref: page_app
       static:
@@ -35,7 +37,9 @@ site:
     nav:
       main:
         - href: /
-          title: Blog
+          title: Recipes
+        - href: /kitchen
+          title: Kitchen Report
     theme:
       $ref: theme
     title: Indie(scriminate) Palate
@@ -57,3 +61,9 @@ theme:
   args:
     store: theme
   class: Statocles::Theme
+
+kitchen_log:
+  args:
+    store: kitchen
+    url_root: /kitchen
+  class: Statocles::App::Blog

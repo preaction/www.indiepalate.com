@@ -41,7 +41,7 @@ site:
         - href: /
           title: Recipes
         - href: /kitchen
-          title: Kitchen Report
+          title: Kitchen
     theme:
       $ref: theme
     title: Indie(scriminate) Palate

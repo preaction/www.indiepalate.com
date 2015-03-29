@@ -4,7 +4,7 @@ title: 'The Mac and Cheese Experiment - 2 - Deluxe Mac'
 ---
 
 Continuing on from [Part 1 of The Mac and Cheese
-Experiment](/blog/2015/03/15/the-mac-and-cheese-experiment---1---classic-mac),
+Experiment](/kitchen/2015/03/15/the-mac-and-cheese-experiment---1---classic-mac),
 this week I tried the more expensive, deluxe boxes of Mac and Cheese. These
 boxes have a pre-made cheese sauce, as opposed to the orange cheese powder.
 
@@ -50,7 +50,7 @@ Adding some black pepper for kick makes it delightful.
 
 I don't tend to add other things (tuna, beef, hot dogs) to deluxe mac. That's
 what [powdered
-mac](/blog/2015/03/15/the-mac-and-cheese-experiment---1---classic-mac) is for.
+mac](/kitchen/2015/03/15/the-mac-and-cheese-experiment---1---classic-mac) is for.
 
 ## Images
 

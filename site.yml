@@ -44,7 +44,7 @@ site:
           title: Kitchen
     theme:
       $ref: theme
-    title: Indie(scriminate) Palate
+    title: Indiscriminate Palate
   class: Statocles::Site
 
 static_app:

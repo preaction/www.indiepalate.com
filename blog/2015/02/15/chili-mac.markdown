@@ -68,7 +68,7 @@ First we brown the meat.
 ![](/images/chili-mac/3-browning-the-meat-3.jpg)
 
 This is how much fat I drained. I made the mistake of not draining with
-[lasagna](/food/2015/02/07/classic-lasagna.html). I don't plan on making it
+[lasagna](/blog/2015/02/07/classic-lasagna.html). I don't plan on making it
 again...
 
 ![](/images/chili-mac/4-drain-the-fat-1.jpg)

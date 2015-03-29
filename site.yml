@@ -46,6 +46,10 @@ site:
       $ref: theme
     title: Indiscriminate Palate
   class: Statocles::Site
+  on:
+    - build:
+        $class: Statocles::Plugin::LinkCheck
+        $sub: check_pages
 
 static_app:
   args:

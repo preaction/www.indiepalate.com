@@ -44,7 +44,7 @@ Just remember the one rule: Bigger is better!
 * 1/2 Tbsp corn starch
 * 1/3 c. water
 
-(This is the same spice mix as used in [chili mac](/blog/2015/02/15/chili-mac.html))
+(This is the same spice mix as used in [chili mac](/recipe/2015/02/15/chili-mac.html))
 
 ### Other Ingredients
 

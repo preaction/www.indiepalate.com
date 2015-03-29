@@ -51,6 +51,6 @@ some streusel topping next time. Or maybe I'll do something extremely rare
 for me and add the nuts that most of the recipes call for.
 
 Altogether a disappointing day in the kitchen. Though, last night's [spicy
-tomato and shrimp pasta](/blog/2015/01/08/spicy-tomato-and-shrimp-pasta.html)
+tomato and shrimp pasta](/recipe/2015/01/08/spicy-tomato-and-shrimp-pasta.html)
 was again a success. I think, for cost purposes, I'm going to try substituting
 some chicken instead.

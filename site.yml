@@ -1,8 +1,8 @@
 ---
-blog_app:
+recipe_app:
   args:
-    store: blog
-    url_root: /blog
+    store: recipe
+    url_root: /recipe
   class: Statocles::App::Blog
 
 deploy:
@@ -23,8 +23,8 @@ site:
     data:
         google_analytics_id: 'UA-61295159-1'
     apps:
-      blog:
-        $ref: blog_app
+      recipe:
+        $ref: recipe_app
       kitchen:
         $ref: kitchen_log
       page:
@@ -35,7 +35,7 @@ site:
         $ref: images_app
     deploy:
       $ref: deploy
-    index: blog
+    index: recipe
     nav:
       main:
         - href: /

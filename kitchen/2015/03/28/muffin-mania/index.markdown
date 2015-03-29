@@ -4,7 +4,7 @@ title: Muffin Mania
 ---
 
 It started with banana bread. I have been craving banana bread all week. I
-would have to buy too many bananas for only one bread, so I though, I might as
+would have to buy too many bananas for only one bread, so I thought, I might as
 well make two and take some in to work. After checking my recipe, I decided
 against it: A single banana bread takes 60 minutes to bake. Since I only have
 (currently) one loaf pan, two loaves of banana breads would be two hours. Three

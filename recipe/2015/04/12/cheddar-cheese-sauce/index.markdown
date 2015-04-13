@@ -4,11 +4,11 @@ title: Cheddar Cheese Sauce
 ---
 
 The mac and cheese experiment started with [the classic mac and
-cheese](/blog/2015/03/15/the-mac-and-cheese-experiment---1---classic-mac). From
+cheese](/kitchen/2015/03/15/the-mac-and-cheese-experiment---1---classic-mac). From
 there, I went on to [the deluxe
-boxes](/blog/2015/03/22/the-mac-and-cheese-experiment---2---deluxe-mac).
+boxes](/kitchen/2015/03/22/the-mac-and-cheese-experiment---2---deluxe-mac).
 Finally, I [tried some pre-made sauce, and refamiliarized myself with
-Velveeta](/blog/2015/03/29/the-mac-and-cheese-experiment---3---pre-made-sauces).
+Velveeta](/kitchen/2015/04/05/the-mac-and-cheese-experiment---3---pre-made-sauces).
 
 For this final installment, a cheddar cheese sauce, from scratch.
 

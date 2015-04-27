@@ -1,7 +1,7 @@
 
-ARGS='-resample 72 -resize 35%'
+ARGS='-resample 72 -resize 35% -quality 65%'
 
-for IMG in $1/*.{jpg,JPG}; do
+for IMG in $@; do
     echo $IMG
     mv $IMG $IMG.big
     convert $IMG.big $ARGS $IMG

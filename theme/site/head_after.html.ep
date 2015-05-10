@@ -1,0 +1,11 @@
+
+<style>
+    body {
+        background-image: url( /theme/images/boomer-small.png );
+    }
+    .main {
+        background-color: white;
+        border: 1px solid #bbb;
+    }
+</style>
+

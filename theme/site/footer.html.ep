@@ -1,4 +1,42 @@
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+<div class="footer">
+    <div class="container">
+        <div class="row">
+
+            <div class="six columns">
+                &copy; 2015 Doug Bell<br/>
+                <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
+                    <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" />
+                </a>
+                <br />
+                All content on this site is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+                <div class="tagline">
+                    <a href="http://preaction.github.io/Statocles">Made with Statocles</a><br/>
+                    <a href="http://www.perl.org">Powered by Perl</a>
+                </div>
+            </div>
+
+            <div class="three columns">
+                <b>Recent Recipes</b>
+                <ul>
+                    % for my $post ( $site->app( 'recipe' )->recent_posts( 5 ) ) {
+                        <li><a href="<%= $post->path %>"><%= $post->title %></a></li>
+                    % }
+                </ul>
+            </div>
+
+            <div class="three columns">
+                <b>In the Kitchen</b>
+                <ul>
+                    % for my $post ( $site->app( 'kitchen' )->recent_posts( 5 ) ) {
+                        <li><a href="<%= $post->path %>"><%= $post->title %></a></li>
+                    % }
+                </ul>
+            </div>
+
+        </div>
+    </div>
+</div>
+
 % if ( $site->data->{google_analytics_id} ) {
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

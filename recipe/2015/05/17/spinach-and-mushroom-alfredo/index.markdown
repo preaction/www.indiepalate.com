@@ -182,9 +182,9 @@ Cook the spinach until a deep dark green.
 
 When the sauce is thickened, add the cheese and stir until melted.
 
-![](saute-9.jpg)
-![](saute-10.jpg)
-![](saute-11.jpg)
+![](sauce-9.jpg)
+![](sauce-10.jpg)
+![](sauce-11.jpg)
 
 Now that everything is done, we can combine it together.
 

@@ -1,3 +1,17 @@
+<h1>About</h1>
+
+<p>I'm learning to make simple, delicious, everyday meals
+without fancy or expensive stuff.</p>
+
+<ul class="bare">
+    <li><a href="https://www.pinterest.com/indiepalate/">
+        <i class="fa fa-pinterest"></i> Pinterest
+    </a></li>
+    <li><a href="https://www.twitter.com/indiepalate/">
+        <i class="fa fa-twitter"></i> Twitter
+    </a></li>
+</ul>
+
 <h1>Blogroll</h1>
 <ul>
     <li><a href="http://budgetbytes.com">Budget Bytes</a></li>

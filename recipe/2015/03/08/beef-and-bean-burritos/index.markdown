@@ -1,5 +1,5 @@
 ---
-tags: beef, bean, mexican, rice
+tags: beef, bean, tortilla, rice
 title: Beef and Bean Burritos
 ---
 Tortillas are my favorite bread product, beating out pita, naan, biscuits, and

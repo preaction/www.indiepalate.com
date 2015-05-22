@@ -3,6 +3,7 @@ tags:
   - chicken
   - rice
   - slow-cooker
+  - tortilla
 title: Taco Chicken Bowls
 ---
 
@@ -30,7 +31,8 @@ I doubled the corn, because that was the size of the frozen corn package I had.
 Next time, I'm going to double the beans too.
 
 Though I made bowls as directed, this would probably go just as well wrapped in
-a tortilla with some sour cream.
+a tortilla with some sour cream. *edit 2015-05-21: I tried it as a burrito, and it is
+excellent!*
 
 ## Ingredients
 

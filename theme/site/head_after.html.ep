@@ -1,5 +1,6 @@
 
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" />
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lobster&subset=all" />
 
 <style>
     body {
@@ -9,5 +10,17 @@
         background-color: white;
         border: 1px solid #bbb;
     }
+    .navbar .brand {
+        color: red;
+        font-family: Lobster, script;
+    }
+    h1, h2, h3, h4 { font-family: Lobster; }
+    a {
+        color: #a00;
+    }
+    a:hover, .navbar a:hover {
+        color: #d00;
+    }
+
 </style>
 <meta name="p:domain_verify" content="6fffd9786048fb8a17fbf6afc3602968"/>

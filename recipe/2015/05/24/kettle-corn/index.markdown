@@ -11,7 +11,7 @@ of sugar, however, makes it delicious!
 If you've got 15 minutes and a pan with a cover, you can make your own kettle
 corn at home.
 
-![](/recipe/2015/05/24/kettle-corn/glamour-shot.jpg)
+![](/recipe/2015/05/24/kettle-corn/title.jpg)
 
 ---
 
@@ -74,4 +74,5 @@ Shake vigorously over the heat until the popping starts slowing down.
 Dump the popcorn into a bowl, add the salt, and stir as it cools.
 
 ![](add-salt.jpg)
+![](glamour-shot.jpg)
 

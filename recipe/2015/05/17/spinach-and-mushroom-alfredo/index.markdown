@@ -18,7 +18,7 @@ The end result was I finally made a spinach dish that I liked. And I made a
 mushroom alfredo that wasn't just "mushroom gravy with cheese". And they both
 happened at the same time!
 
-![](/recipe/2015/05/17/spinach-and-mushroom-alfredo/glamour-shot.jpg)
+![](/recipe/2015/05/17/spinach-and-mushroom-alfredo/title.jpg)
 
 ---
 
@@ -204,3 +204,4 @@ Add the spinach and mushrooms.
 And we're done! Add some red pepper for some spice, and more cheese if desired  Serve
 with some garlic bread for maximum awesome.
 
+![](/recipe/2015/05/17/spinach-and-mushroom-alfredo/glamour-shot.jpg)

@@ -8,7 +8,7 @@ I don't remember where I found this recipe, but it's crazy delicious. Tequila,
 lime, and salty, buttery shrimp combine together so well. This stuff is great
 with rice or on a tortilla with cheese and sour cream.
 
-![](/recipe/2015/05/31/tequila-lime-shrimp/cook-sauce-5.jpg)
+![](/recipe/2015/05/31/tequila-lime-shrimp/title.jpg)
 
 ---
 

@@ -15,7 +15,7 @@ with rice or on a tortilla with cheese and sour cream.
 There is a lot of butter here, but don't shrimp out on it. It all condenses
 down into a tasty sauce for the shrimp.
 
-A remember to keep frozen shrimp frozen until you're about to use them. Then,
+And remember to keep frozen shrimp frozen until you're about to use them. Then,
 thaw them under warm, running water.
 
 ## Ingredients

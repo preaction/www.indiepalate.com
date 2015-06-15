@@ -29,8 +29,6 @@ site:
         $ref: kitchen_log
       page:
         $ref: page_app
-      static:
-        $ref: static_app
       images:
         $ref: images_app
     deploy:
@@ -50,12 +48,6 @@ site:
     - build:
         $class: Statocles::Plugin::LinkCheck
         $sub: check_pages
-
-static_app:
-  args:
-    store: static
-    url_root: /static
-  class: Statocles::App::Static
 
 images_app:
   args:

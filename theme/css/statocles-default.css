@@ -203,15 +203,7 @@ ul.pager {
 footer {
     margin-top: 1em;
     padding-bottom: 0.5em;
-    background-color: #eee;
     font-size: 0.7em;
-    border: 1px solid #bbb;
-    border-bottom: none;
-}
-
-footer li {
-    margin: 0;
-    padding: 0;
 }
 
 /** Crumbtrail widget */

@@ -1,0 +1,34 @@
+
+body {
+    background-image: url( /theme/images/boomer-small.png );
+}
+
+.main {
+    background-color: white;
+    border: 1px solid #bbb;
+}
+
+.navbar .brand {
+    color: red;
+    font-family: Lobster, script;
+}
+
+h1, h2, h3, h4 { font-family: Lobster; }
+
+a {
+    color: #a00;
+}
+a:hover, .navbar a:hover {
+    color: #d00;
+}
+
+footer {
+    background-color: #eee;
+    border: 1px solid #bbb;
+    border-bottom: none;
+}
+
+footer li {
+    margin: 0;
+    padding: 0;
+}

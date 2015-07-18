@@ -9,7 +9,7 @@ I finally found the cheddar cheese sauce I was looking for, and it all started
 with an unfortunate mistake. So, unlike most recipes, this one starts with a
 story.
 
-![](/recipe/2015/07/19/cheddar-cheese-sauce-revisited/title.jpg)
+![](title.jpg)
 
 ---
 

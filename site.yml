@@ -33,7 +33,7 @@ site:
         $ref: images_app
     deploy:
       $ref: deploy
-    index: recipe
+    index: /recipe
     nav:
       main:
         - href: /

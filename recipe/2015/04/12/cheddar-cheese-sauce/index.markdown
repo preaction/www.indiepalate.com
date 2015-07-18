@@ -3,6 +3,9 @@ tags: 'cheese, pasta'
 title: Cheddar Cheese Sauce
 ---
 
+*NOTE:* This recipe has been superceded by [version 2 of the cheddar cheese
+sauce](/recipe/2015/07/12/cheddar-cheese-sauce-revisited/)
+
 The mac and cheese experiment started with [the classic mac and
 cheese](/kitchen/2015/03/15/the-mac-and-cheese-experiment---1---classic-mac). From
 there, I went on to [the deluxe

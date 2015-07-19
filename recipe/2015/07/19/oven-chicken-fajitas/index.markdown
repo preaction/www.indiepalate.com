@@ -11,7 +11,7 @@ Bytes](http://www.budgetbytes.com/2013/02/oven-fajitas/) that inspired
 me to create this blog. It's simple, cheap, and delicious. With recipes
 like this, there's no excuse to dine out for every meal.
 
-![](title.jpg)
+![Oven Chicken Fajitas](title.jpg)
 
 ---
 

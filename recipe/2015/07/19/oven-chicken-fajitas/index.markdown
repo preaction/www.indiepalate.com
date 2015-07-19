@@ -7,8 +7,9 @@ title: Oven Chicken Fajitas
 ---
 
 This is one of the recipes I got from [Budget
-Bytes](http://www.budgetbytes.com/2013/02/oven-fajitas/) that inspired me to
-create this blog. It's simple, cheap, and delicious.
+Bytes](http://www.budgetbytes.com/2013/02/oven-fajitas/) that inspired
+me to create this blog. It's simple, cheap, and delicious. With recipes
+like this, there's no excuse to dine out for every meal.
 
 ![](title.jpg)
 
@@ -37,7 +38,7 @@ differently-priced, who knew?
 
 * 1 medium red onion
 * 3 medium bell peppers (mix up the colors if you want)
-* 1 lb. chicken breast (or cheaper thighs)
+* 1 lb. chicken breast or thighs
 * 2 Tbsp vegetable oil
 * 1 tbsp cilantro
 * 8 flour tortillas
@@ -55,7 +56,7 @@ trim any excess fat off the chicken, and cut into strips.
 
 Combine vegetables and chicken into glass baking dish. Sprinkle spice mix over
 the top. Add vegetable oil and stir until combined. Bake for 45 minutes,
-stirring once.
+stirring once halfway through.
 
 When complete, sprinkle cilantro on top. Serve with sour cream and cheese.
 
@@ -187,7 +188,7 @@ And cheese. The first time I made these, I didn't add cheese, and they were stil
 delicious, so if you're on a budget or a diet, you can leave this out.
 
 I would not add any salsa, the spice mix is spicy enough, though other mixins might
-do well.
+do well (pico de gallo or corn perhaps).
 
 ![Wrap it up](30-snuggie.jpg)
 

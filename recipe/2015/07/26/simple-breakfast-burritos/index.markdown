@@ -108,7 +108,7 @@ Add some rice
 
 Add some eggs
 
-![Some Sriracha](15-sriracha)
+![Some Sriracha](15-sriracha.jpg)
 
 Spice it up with some Sriracha
 

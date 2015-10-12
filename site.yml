@@ -3,6 +3,8 @@ recipe_app:
   args:
     store: recipe
     url_root: /recipe
+    tag_text:
+        $config: tags.yml
   class: Statocles::App::Blog
 
 deploy:

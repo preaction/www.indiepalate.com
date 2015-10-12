@@ -2,7 +2,8 @@
 tags:
   - cheese
   - pasta
-  - vegetables
+  - mushroom
+  - greens
 title: Spinach and Mushroom Alfredo
 ---
 

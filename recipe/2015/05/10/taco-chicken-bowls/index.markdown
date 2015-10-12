@@ -2,7 +2,7 @@
 tags:
   - chicken
   - rice
-  - slow-cooker
+  - slow cooker
   - tortilla
 title: Taco Chicken Bowls
 ---

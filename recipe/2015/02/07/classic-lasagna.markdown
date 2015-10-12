@@ -1,6 +1,6 @@
 ---
 title: Classic Lasagna
-tags: pasta, tomato, cheese
+tags: pasta, beef, cheese
 ---
 
 About a month ago, someone put the idea of a "breakfast lasagna" in my head. It

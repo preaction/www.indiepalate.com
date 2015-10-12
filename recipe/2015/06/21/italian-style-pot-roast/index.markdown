@@ -1,7 +1,7 @@
 ---
 tags:
   - beef
-  - slow-cooker
+  - slow cooker
 title: Italian-Style Pot Roast
 ---
 

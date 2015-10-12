@@ -17,7 +17,7 @@ page_app:
   args:
     store: page
     url_root: /page
-  class: Statocles::App::Plain
+  class: Statocles::App::Basic
 
 site:
   args:
@@ -55,7 +55,7 @@ images_app:
   args:
     store: images
     url_root: /images
-  class: Statocles::App::Static
+  class: Statocles::App::Basic
 
 theme:
   args:

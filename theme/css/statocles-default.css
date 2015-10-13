@@ -74,14 +74,9 @@ main img {
     max-width: 100%;
 }
 
-footer .tagline {
-    font-size: smaller;
-    line-height: 1.3;
-    text-align: right;
-}
-
-a[rel=external]::before {
+a[rel=external]::after {
     content: '\f08e';
+    padding-left: 0.2em;
     font-family: "FontAwesome";
     display: inline-block;
     font-size: smaller;
@@ -204,6 +199,12 @@ footer {
     margin-top: 1em;
     padding-bottom: 0.5em;
     font-size: 0.7em;
+}
+
+footer .tagline {
+    font-size: smaller;
+    line-height: 1.3;
+    text-align: right;
 }
 
 /** Crumbtrail widget */

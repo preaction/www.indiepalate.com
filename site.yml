@@ -24,6 +24,8 @@ site:
     base_url: http://indiepalate.com
     data:
         google_analytics_id: 'UA-61295159-1'
+        disqus:
+            shortname: indiepalate
     apps:
       recipe:
         $ref: recipe_app

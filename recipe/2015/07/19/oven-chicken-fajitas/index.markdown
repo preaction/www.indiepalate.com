@@ -3,6 +3,7 @@ tags:
   - chicken
   - spicy
   - tortilla
+  - easy
 title: Oven Chicken Fajitas
 ---
 

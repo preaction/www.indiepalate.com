@@ -1,6 +1,7 @@
 ---
 tags:
   - seafood
+  - easy
 title: Tequila Lime Shrimp
 ---
 

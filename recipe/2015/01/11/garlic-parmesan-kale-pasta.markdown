@@ -1,5 +1,4 @@
 ---
-author: preaction
 last_modified: 2015-01-11 20:06:59
 tags: pasta, greens, easy, redo
 title: Garlic Parmesan Kale Pasta

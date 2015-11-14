@@ -1,5 +1,4 @@
 ---
-author: preaction
 last_modified: 2015-01-10 14:36:14
 tags: spicy, pasta, egg, easy, redo
 title: Dragon Noodles

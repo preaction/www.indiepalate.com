@@ -1,5 +1,5 @@
 ---
-tags: 'pasta, cheese, spicy, pork'
+tags: pasta, cheese, spicy, pork, redo
 title: Spicy Penne and Sausage
 ---
 

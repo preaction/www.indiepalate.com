@@ -1,6 +1,6 @@
 ---
 last-modified: 2015-02-15 19:29:54
-tags: 'pasta, bacon, greens'
+tags: pasta, bacon, greens, redo
 title: Bacon and Spinach Pasta with Parmesan
 ---
 

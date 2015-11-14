@@ -1,5 +1,5 @@
 ---
-tags: 'bread, fruit'
+tags: bread, fruit, redo
 title: Banana Bread
 ---
 

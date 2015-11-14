@@ -1,6 +1,6 @@
 ---
 last_modified: 2015-02-15 18:25:57
-tags: 'pasta, cheese, spicy, beef'
+tags: pasta, cheese, spicy, beef, redo
 title: Chili Mac
 ---
 

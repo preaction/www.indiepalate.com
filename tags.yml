@@ -143,3 +143,11 @@ tortilla: |-
 
     I love wrapping things up in a tortilla. Make sure to warm the tortilla
     first!
+
+redo: |-
+    <h1>Recipes to Redo</h1>
+
+    These recipes did not turn out spectacular, so they need some work. Either
+    the food wasn't great, or the post explaining it wasn't good enough. There
+    will likely be a follow-up post in the future.
+

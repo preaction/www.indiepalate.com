@@ -5,6 +5,7 @@ tags:
   - slow cooker
   - tortilla
   - easy
+  - redo
 title: Taco Chicken Bowls
 ---
 

@@ -1,7 +1,7 @@
 ---
 author: preaction
 last_modified: 2015-01-08 00:10:52
-tags: spicy, seafood, pasta, easy
+tags: spicy, seafood, pasta, easy, redo
 title: Spicy Tomato and Shrimp Pasta
 ---
 

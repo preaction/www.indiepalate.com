@@ -61,11 +61,11 @@ Bake for 30-35 minutes or until golden. Cool completely on a wire rack.
 
 ## Images
 
-![](01-ingredients.jpg)
+![The ingredients](01-ingredients.jpg)
 
 Not a lot of ingredients here, which is good. Preheat the oven to 400°.
 
-![](02-pan-paper.jpg)
+![Baking sheet with parchment paper](02-pan-paper.jpg)
 
 Prepare a baking sheet with a bit of parchment paper. Parchment paper
 will help the bread to not stick. Lay it so the curl is facing down, so
@@ -73,34 +73,34 @@ it doesn't curl up on you.
 
 Start by adding the flour to a large bowl.
 
-![](03-flour.jpg)
+![Flour in a mixing bowl](03-flour.jpg)
 
 Next the oats.
 
-![](04-oats.jpg)
+![Adding oats to the flour](04-oats.jpg)
 
 And then the baking soda and salt.
 
-![](05-soda-and-salt.jpg)
+![Adding soda and salt](05-soda-and-salt.jpg)
 
 Make sure to mix the dry ingredients well before adding the wet ingredients,
 starting with the honey.
 
-![](06-honey.jpg)
+![Adding honey](06-honey.jpg)
 
 I also added 1/2 tsp Cinnamon, but it wasn't very noticable. Subtle. I
 might add a bit more next time, or something more aromatic like nutmeg
 or cloves.
 
-![](07-milk.jpg)
+![Measuring the buttermilk](07-milk.jpg)
 
 Finally, add the milk.
 
-![](08-milk.jpg)
+![Adding the buttermilk](08-milk.jpg)
 
 Then stir to combine into a ball.
 
-![](09-combined.jpg)
+![Stirred ingredients into a ball](09-combined.jpg)
 
 In this stage, you can adjust the dough. It should be only slightly
 sticky, but not dry. I had to add some flour to mine, and I ended up
@@ -108,40 +108,40 @@ using closer to 2 c flour.
 
 Once the dough is how you want, add the raisins.
 
-![](10-raisins.jpg)
+![Adding the raisins](10-raisins.jpg)
 
 The raisins will get combined as you knead.
 
-![](11-raisins-combined.jpg)
+![Raisins combined](11-raisins-combined.jpg)
 
 Knead the dough in the bowl for a couple minutes to start the glutens
 forming.
 
-![](12-kneaded.jpg)
+![Dough ball kneaded](12-kneaded.jpg)
 
 Then, dump the dough on to the pan.
 
-![](13-on-pan.jpg)
+![Dough ball on the baking sheet](13-on-pan.jpg)
 
 To bake evenly, you want to spread the dough out a bit, so that it's
 only about 1" to 1-1/2" thick.
 
-![](14-spread.jpg)
-![](15-spread-close.jpg)
+![Dough ball flattened on the baking sheet](14-spread.jpg)
+![Close up of flattened dough ball](15-spread-close.jpg)
 
 Then, pop it in the oven for 30-35 minutes.
 
-![](16-oven.jpg)
+![Browned bread in the oven](16-oven.jpg)
 
 After 30 minutes, it was a little darker than I wanted. You might want to start
 checking it at 25 minutes.
 
-![](17-done.jpg)
+![Done bread sitting on the baking sheet](17-done.jpg)
 
 Cool it on a wire rack for at least 20 minutes before slicing.
 
-![](18-cooling.jpg)
-![](19-glamour.jpg)
+![Bread cooling on a wire rack](18-cooling.jpg)
+![Sliced bread showing the crumb](19-glamour.jpg)
 
 I could definitely taste the honey flavor. It goes well with butter, and
 it's not too sweet, which I like.

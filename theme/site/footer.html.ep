@@ -15,19 +15,10 @@
                 </div>
             </div>
 
-            <div class="three columns">
-                <b>Recent Recipes</b>
+            <div class="six columns">
+                <b>Recent Posts</b>
                 <ul>
-                    % for my $post ( $site->app( 'recipe' )->recent_posts( 5 ) ) {
-                        <li><a href="<%= $post->path %>"><%= $post->title %></a></li>
-                    % }
-                </ul>
-            </div>
-
-            <div class="three columns">
-                <b>In the Kitchen</b>
-                <ul>
-                    % for my $post ( $site->app( 'kitchen' )->recent_posts( 5 ) ) {
+                    % for my $post ( $site->app( 'blog' )->recent_posts( 5 ) ) {
                         <li><a href="<%= $post->path %>"><%= $post->title %></a></li>
                     % }
                 </ul>

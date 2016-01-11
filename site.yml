@@ -1,11 +1,17 @@
 ---
+blog_app:
+    class: Statocles::App::Blog
+    args:
+        store: blog
+        url_root: /blog
+        tag_text:
+            $config: tags.yml
+
 recipe_app:
   args:
     store: recipe
     url_root: /recipe
-    tag_text:
-        $config: tags.yml
-  class: Statocles::App::Blog
+  class: Statocles::App::Basic
 
 deploy:
   args:
@@ -13,10 +19,10 @@ deploy:
     branch: deploy
   class: Statocles::Deploy::Git
 
-page_app:
+pantry_app:
   args:
-    store: page
-    url_root: /page
+    store: pantry
+    url_root: /pantry
   class: Statocles::App::Basic
 
 site:
@@ -29,21 +35,21 @@ site:
     apps:
       recipe:
         $ref: recipe_app
-      kitchen:
-        $ref: kitchen_log
-      page:
-        $ref: page_app
+      blog:
+        $ref: blog_app
+      pantry:
+        $ref: pantry_app
       images:
         $ref: images_app
     deploy:
       $ref: deploy
-    index: /recipe
+    index: /blog
     nav:
       main:
         - href: /
+          title: Blog
+        - href: /blog/tag/recipe
           title: Recipes
-        - href: /kitchen
-          title: Kitchen
     theme:
       $ref: theme
     title: Indie Palate
@@ -63,9 +69,3 @@ theme:
   args:
     store: theme
   class: Statocles::Theme
-
-kitchen_log:
-  args:
-    store: kitchen
-    url_root: /kitchen
-  class: Statocles::App::Blog

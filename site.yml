@@ -39,8 +39,8 @@ site:
         $ref: blog_app
       pantry:
         $ref: pantry_app
-      images:
-        $ref: images_app
+      root:
+        $ref: root_app
     deploy:
       $ref: deploy
     index: /blog
@@ -59,10 +59,10 @@ site:
         $class: Statocles::Plugin::LinkCheck
         $sub: check_pages
 
-images_app:
+root_app:
   args:
-    store: images
-    url_root: /images
+    store: .
+    url_root: /
   class: Statocles::App::Basic
 
 theme:

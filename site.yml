@@ -40,7 +40,7 @@ site:
       pantry:
         $ref: pantry_app
       root:
-        $ref: root_app
+        $ref: page_app
     deploy:
       $ref: deploy
     index: /blog
@@ -59,10 +59,10 @@ site:
         $class: Statocles::Plugin::LinkCheck
         $sub: check_pages
 
-root_app:
+page_app:
   args:
-    store: .
-    url_root: /
+    store: page
+    url_root: /page
   class: Statocles::App::Basic
 
 theme:

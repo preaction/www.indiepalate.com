@@ -11,10 +11,12 @@ I had to give it a try: I wanted something spicy/sweet, and this
 certainly does that.
 
 I couldn't find Scotch Bonnet peppers, so I used Habanero peppers
-instead. The recipe also includes rice and beans, but I decided to use
-up my potatoes and make garlic mashed (with some cheese, because why
-not).
+instead. Pro tip: *Use gloves*. I barely touched the peppers, and my
+fingers were on fire for hours afterward. I was thankfully lucky enough
+to not touch any sensitive parts...
 
+The recipe also includes rice and beans, but I decided to use up my
+potatoes and make garlic mashed (with some cheese, because why not).
 Side note: Life is too short to eat mild cheddar... Maybe one could find
 use for it as part of a cheese tray with crackers. But, mild cheddar in
 any other purpose else is easily overpowered.

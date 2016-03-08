@@ -26,7 +26,9 @@ up. A bit of chicken stock would help fill in some flavor gaps,
 I suspect, if you don't have wine. Personally, I filled those gaps with
 some parmesan and red pepper.
 
-All in all, this one was very good. I gorged myself stupid, and now, fat
-and happy, I'm telling you about it.
+All in all, this one was very good. I gorged myself stupid, have plenty
+of leftovers, and now, fat and happy, I'm telling you about it.
+
+PS: The leftovers went well mixing the peas right in there.
 
 ![Shrimp and Pasta with Tomato Cream Sauce and some peas](glamour.jpg)

@@ -19,7 +19,7 @@ for slow-cooking chicken seems to be:
 * 1-2 cups flavorful liquid
 * 2-4 cups vegetables (beans, corn, potatoes, onions, carrots, celery)
 
-(for other instances of this forumla, see [Taco Chicken
+(for other instances of this formula, see [Taco Chicken
 Bowls](/blog/2015/05/10/taco-chicken-bowls) and [Indian Spiced
 Stew](/blog/2016/02/17/indian-spiced-stew))
 

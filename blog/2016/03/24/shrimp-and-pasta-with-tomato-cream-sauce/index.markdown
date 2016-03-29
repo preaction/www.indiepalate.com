@@ -1,5 +1,5 @@
 ---
-tags: report, shrimp, pasta, tomato, dairy, easy
+tags: report, seafood, pasta, tomato, dairy, easy
 title: Shrimp and Pasta with Tomato Cream Sauce
 ---
 

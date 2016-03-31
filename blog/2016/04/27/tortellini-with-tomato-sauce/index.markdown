@@ -22,7 +22,7 @@ Tomato sauce is easy (though it does take 30 minutes) and delicious,
 with bright flavors that don't seem to survive the canning process.
 
 And, since my oven was empty while making the pasta and sauce,
-I [broiled some cauliflower](/howto/cauliflower/roasted) with pepper and
+I [roasted some cauliflower](/howto/cauliflower/roasted) with pepper and
 thyme. The result was perfectly browned and tasty.
 
 ![Tortellini with tomato sauce and roasted cauliflower](glamour.jpg)

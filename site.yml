@@ -50,6 +50,8 @@ site:
           title: Blog
         - href: /blog/tag/recipe
           title: Recipes
+        - href: /pantry
+          title: Pantry
     theme:
       $ref: theme
     title: Indie Palate

@@ -9,7 +9,7 @@ cabbage, kale, and Brussels sprouts. The edible unit of cauliflower is
 called the "head", and consists of a bunch of florets.
 
 Cauliflower florets, once removed from the stalk, can be easily prepared
-by boiling, steaming, sauteing, roasting, pickling, or eaten raw..
+by boiling, steaming, sauteing, roasting, pickling, or eaten raw.
 
 Cauliflower comes in multiple colors, like white, green, orange, and
 purple, but white is the most commonly found in supermarkets.

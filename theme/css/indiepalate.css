@@ -33,6 +33,17 @@ footer li {
     padding: 0;
 }
 
+.main {
+    padding: 0 1%;
+}
+
+/**
+ * Don't allow main content images to push things around
+ */
+.main img {
+    max-width: 100%;
+}
+
 figure {
     float: right;
     width: 30%;

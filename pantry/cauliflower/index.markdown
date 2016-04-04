@@ -16,6 +16,12 @@ purple, but white is the most commonly found in supermarkets.
 
 ## Purchase
 
+<figure>
+    <img src="black-spots.jpg" alt="cauliflower with black spots" />
+    <figcaption>Avoid cauliflower with black spots. If you must, cut the
+    black spots away.</figcaption>
+</figure>
+
 When buying white cauliflower, avoid heads with black spots, blemishes,
 and bruising. The cauliflower should be a creamy white color, and should
 feel heavy for its size.

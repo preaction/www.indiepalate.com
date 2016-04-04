@@ -32,3 +32,12 @@ footer li {
     margin: 0;
     padding: 0;
 }
+
+figure {
+    float: right;
+    width: 30%;
+}
+
+figure img {
+    max-width: 100%;
+}

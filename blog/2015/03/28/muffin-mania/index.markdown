@@ -1,5 +1,5 @@
 ---
-tags: baking
+tags: kitchen
 title: Muffin Mania
 ---
 

@@ -5,6 +5,13 @@ report: |-
     or if they don't, I'm going to post about it. The things that work will
     likely get a full recipe writeup in the future.
 
+kitchen: |-
+    <h1>Kitchen Tales</h1>
+
+    These are posts about being in the kitchen, stories about attempts
+    at cooking that weren't good enough to report on, and other posts
+    about stuff that can't be eaten.
+
 easy: |-
     <h1>Easy Recipes</h1>
 

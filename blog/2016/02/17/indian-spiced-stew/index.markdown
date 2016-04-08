@@ -12,7 +12,7 @@ This [Indian Spiced Stew with Chicken and
 Potatoes](http://www.seasonsandsuppers.ca/indian-spiced-chicken-stew/)
 is easy to make. It only needs a quick sear on the chicken and then
 4 hours in the slow cooker. It can be served as-is, or over rice. Do not
-forget to add the yogurt! It's mildly spicy and fragrant, and I will
+forget to add the [yogurt](/pantry/yogurt)! It's mildly spicy and fragrant, and I will
 enjoy trying this again.
 
 ![Indian spiced stew with chicken and potatoes with yogurt on

@@ -17,6 +17,9 @@ boiling, steaming, sauteing, roasting, pickling, or eaten raw.
 Broccoli florets should be bright green and tightly-closed. Stalks
 should be firm but not woody. Avoid broccoli with yellowing florets.
 
+Broccoli freezes well, so if you're pressed for time, or only need
+a little bit, it's okay to buy frozen.
+
 ## Storage
 
 Store in the coldest part of the fridge, and keep it dry. Use within

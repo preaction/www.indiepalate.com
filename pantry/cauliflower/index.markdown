@@ -26,6 +26,9 @@ When buying white cauliflower, avoid heads with black spots, blemishes,
 and bruising. The cauliflower should be a creamy white color, and should
 feel heavy for its size.
 
+Cauliflower freezes well, so if you're pressed for time, or only need
+a little bit, it's okay to buy frozen.
+
 ## Storage
 
 Most often cauliflower will come wrapped tightly in plastic, which traps

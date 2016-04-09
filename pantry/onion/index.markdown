@@ -1,5 +1,6 @@
 ---
 title: Onion - Pantry
+status: draft
 ---
 
 # Onions
@@ -17,7 +18,9 @@ Onions come in different varieties:
 # Purchase
 
 When purchasing onions, make sure they're firm and the skin is rich
-brown/orange.
+brown/orange. Avoid onions with dark spots. The outer layers of skin are
+paper-thin and often flake off during shipping and handling, which is
+fine.
 
 # Storage
 
@@ -29,7 +32,7 @@ fridge, or months in the freezer.
 
 # Preparation
 
-* How to cut onions
+* [How to cut onions](cutting)
 * Saute
 
 # Uses
@@ -41,9 +44,6 @@ fridge, or months in the freezer.
 
 
 # Recipes
-
-Onions are widely used, but here are some recipes that feature onions as
-the centerpiece.
 
 * French Onion Soup
 * Mirepoix - A common aromatic base in soups and sauces

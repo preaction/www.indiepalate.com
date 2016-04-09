@@ -1,5 +1,6 @@
 ---
 title: Broccoli - Pantry
+status: draft
 ---
 
 # Broccoli
@@ -26,6 +27,8 @@ Store in the coldest part of the fridge, and keep it dry. Use within
 7 days.
 
 ## Preparation
+
+XXX Add prepartion
 
 * [Boiled Broccoli](boiled)
 * [Sauteed Broccoli](saute)

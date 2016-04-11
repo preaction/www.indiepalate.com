@@ -26,4 +26,8 @@ All told this is a great, easy, inexpensive dinner, and you can vary the
 herbs and sauce for infinite possibilities. Something hot and spicy
 sounds good, or a heaping helping of your favorite seasoned salt.
 
+Next time, I might try a different cut of meat. Thighs and legs might
+not be the right cut of meat to use, due to their higher fat content.
+Roasting the chicken on the potatoes means the fat can't drain away.
+
 ![Herb Roasted Chicken with Potatoes and Corn](glamour.jpg)

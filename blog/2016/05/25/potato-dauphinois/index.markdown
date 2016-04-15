@@ -20,6 +20,10 @@ other recipes, which I think was the biggest improvement.  I added some
 onions to the recipe, because why not? Potatoes always go great with
 a little bit of onion.
 
+Make sure you use enough cream. When you press down on the center of the
+potatoes, the cream should come up to cover the potatoes. Also make sure
+you check the doneness: A fork should slide easily through the potatoes.
+
 I served this alongside some basic roasted chicken. Nothing fancy there,
 just salt and pepper, and the resulting meal was excellent. I had to
 stop myself from gorging myself to save room for the pistachio gelato

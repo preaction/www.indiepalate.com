@@ -12,7 +12,13 @@ task deploy => ( group => 'www' ), sub {
     sudo sub {
         file get( 'nginx_conf_dir' ) . '/indiepalate.com.conf',
             source => 'etc/nginx.conf',
-            on_change => sub { run 'nginx -s reload' };
+            on_change => sub {
+                Rex::Logger::info( "Reloading nginx config" );
+                my @output = run 'nginx -s reload 2>&1';
+                if ( $? ) {
+                    Rex::Logger::info( "ERROR: " . join( "\n", @output ), "warn" );
+                }
+            };
     };
 
     LOCAL {

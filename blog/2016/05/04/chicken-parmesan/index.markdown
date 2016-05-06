@@ -22,5 +22,5 @@ a little extra cooking time. I added some
 
 [Get the recipe for Chicken Parmesan](/recipe/chicken-parmesan)
 
-![Chicken parmesan served on spaghetti with tomato sauce and
-cauliflower](/recipe/chicken-parmesan/title.jpg)
+[![Chicken parmesan served on spaghetti with tomato sauce and
+cauliflower](/recipe/chicken-parmesan/title.jpg)](/recipe/chicken-parmesan)

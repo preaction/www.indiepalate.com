@@ -7,7 +7,7 @@ tags: chicken, pasta
 
 Chicken Parmesan is one of my all-time favorite chicken dishes, since it
 combines breaded chicken with spaghetti and tomato sauce, two great
-taste that taste great together, with a whole bunch of cheese.
+tastes that taste great together, with a whole bunch of cheese.
 
 You can use [my tomato sauce recipe](/recipe/tomato-sauce). Just start
 the sauce before the chicken, and by the time the chicken is done and

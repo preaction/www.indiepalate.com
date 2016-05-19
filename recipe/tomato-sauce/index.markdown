@@ -50,6 +50,14 @@ After the 30 minutes are up, or a bit more, remove from heat and let
 cool for a little bit before blending smooth with an immersion blender.
 Season with salt and black pepper to taste.
 
+### Extras
+
+* Substitute 2-3 slices of bacon for the initial olive oil for
+  a different flavor
+* Add 1 lb of browned Italian sausage
+* Add 1 c of red lentils with the tomatoes and everything to add some
+  extra protein, but skip the blending step
+
 ## Images
 
 ![Ingredients for tomato sauce](01-ingredients.jpg)

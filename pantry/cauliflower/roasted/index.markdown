@@ -92,6 +92,8 @@ ensure browning, and browning equals flavor.
 
 ![Cauliflower florets after roasting in oven](10-done.jpg)
 
+## Serve With
+
 I enjoy cauliflower with [pasta and tomato sauce
 dishes](/blog/tag/tomato) and [chicken like this poulet au vin
 blanc](/blog/2016/02/24/poulet-au-vin-blanc/).

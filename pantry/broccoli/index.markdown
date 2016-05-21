@@ -1,6 +1,5 @@
 ---
 title: Broccoli - Pantry
-status: draft
 ---
 
 # Broccoli
@@ -15,7 +14,13 @@ boiling, steaming, sauteing, roasting, pickling, or eaten raw.
 
 ## Purchase
 
-Broccoli florets should be bright green and tightly-closed. Stalks
+<figure>
+    <img src="broccoli-display.jpg" alt="broccoli display in supermarket" />
+    <figcaption>Avoid broccoli with light or yellow parts. The darker
+    stalks are best.</figcaption>
+</figure>
+
+Broccoli florets should be deep green and tightly-closed. Stalks
 should be firm but not woody. Avoid broccoli with yellowing florets.
 
 Broccoli freezes well, so if you're pressed for time, or only need
@@ -28,10 +33,9 @@ Store in the coldest part of the fridge, and keep it dry. Use within
 
 ## Preparation
 
-XXX Add prepartion
-
-* [Boiled Broccoli](boiled)
-* [Sauteed Broccoli](saute)
+%# * [Boiled Broccoli](boiled)
+%# * [Sauteed Broccoli](saute)
+* [Roasted Broccoli](roasted)
 
 ## Other Uses
 

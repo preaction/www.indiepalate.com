@@ -14,6 +14,7 @@ in recipes or in quickly assembling a meal from a bunch of parts.
 
 ## Vegetables
 
+* [Broccoli](broccoli)
 * [Cauliflower](cauliflower)
 * [Green Beans](green-beans)
 

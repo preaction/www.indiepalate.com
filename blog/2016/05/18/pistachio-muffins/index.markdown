@@ -12,7 +12,7 @@ Me](http://mymommatoldme.com/pistachio-muffins-sugar-crust/), I was
 curious. When I found out it used pistachio pudding mix for flavor,
 I had to try it.
 
-This recipe was so good, it might break me from my recent scone habit..
+This recipe was so good, it might break me from my recent scone habit.
 It comes together quickly, same as any muffin recipe. There's almost too
 much for my muffin pan, but that meant big, mushrooming muffins.
 

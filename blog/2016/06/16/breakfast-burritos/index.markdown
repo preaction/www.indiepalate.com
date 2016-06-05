@@ -1,5 +1,5 @@
 ---
-tags: recipe, egg, cheese, mushroom, tortilla
+tags: report, egg, cheese, mushroom, tortilla
 title: Breakfast Burritos
 ---
 

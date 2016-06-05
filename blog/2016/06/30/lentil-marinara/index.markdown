@@ -22,5 +22,4 @@ vegetarians (the parmesan cheese I added stopped it from being vegan).
 Added together with some [roasted broccoli](/pantry/broccoli/roasted)
 and I had a nice, healthy meal.
 
-[Recipe for tomato sauce with red lentils](![Tomato sauce with red
-lentils and roasted broccoli](glamour.jpg))
+![Tomato sauce with red lentils and roasted broccoli](glamour.jpg)

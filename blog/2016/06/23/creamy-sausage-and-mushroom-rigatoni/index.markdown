@@ -11,7 +11,7 @@ I'm not sure if the difference is that distinct...
 Ate
 Everything](http://www.the-girl-who-ate-everything.com/2015/07/creamy-sausage-and-mushroom-rigatoni.html)
 is uncannily similar to the [Spicy Penne and
-Sausage](http://indiepalate.com/blog/2015/03/01/spicy-penne-and-sausage/)
+Sausage](/blog/2015/03/01/spicy-penne-and-sausage/)
 I've made once in a while.  They could be twins. Feel free to add
 parmesan to this, or basil to that. Peas could go well with this, or
 maybe some bacon.

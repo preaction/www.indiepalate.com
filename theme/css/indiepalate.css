@@ -1,6 +1,7 @@
 
 body {
     background-image: url( /theme/images/boomer-small.png );
+    font: 1.8em 'EB Garamond', serif;
 }
 
 .main {
@@ -8,12 +9,14 @@ body {
     border: 1px solid #bbb;
 }
 
+.navbar {
+    font-family: 'Roboto Condensed', sans-serif;
+}
 .navbar .brand {
-    color: red;
-    font-family: Lobster, script;
+    color: #a00;
 }
 
-h1, h2, h3, h4 { font-family: Lobster; }
+h1, h2, h3, h4 { font-family: 'Roboto Condensed', sans-serif; }
 
 a {
     color: #a00;

@@ -1,5 +1,5 @@
 ---
-tags: report, shrimp, spicy
+tags: report, seafood, spicy
 title: Shrimp Etouffee
 ---
 

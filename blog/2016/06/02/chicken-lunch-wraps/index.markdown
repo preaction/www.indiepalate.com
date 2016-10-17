@@ -13,7 +13,7 @@ served fresh sandwiches and wraps. For the longest time, I ate the club
 sandwich. But, one day I decided to try their grilled chicken wrap, and
 I was hooked.
 
-So here's [a chicken lunch wrap recipe](.). It
+So here's [a chicken lunch wrap recipe](#section-2). It
 requires a little prep, but the chicken can be made in large batches and
 kept for a week. I went with cabbage, which has a different flavor.
 I tried two variations: Ranch dressing (unhealthy) with cheddar, and
@@ -22,7 +22,7 @@ effect.
 
 Here's to a week's worth of healthy lunches!
 
-[![chicken lunch wraps on a plate](title.jpg)](.)
+[![chicken lunch wraps on a plate](title.jpg)](#section-2)
 
 ---
 

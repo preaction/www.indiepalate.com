@@ -23,4 +23,4 @@ which I'm always a fan of.
 [See the gruyere shrimp risotto recipe](/recipe/gruyere-shrimp-risotto/)
 
 [![Gruyere shrimp risotto with poulet au vin blanc and roasted
-cauliflower](title.jpg)](/recipe/gruyere-shrimp-risotto/)
+cauliflower](/recipe/gruyere-shrimp-risotto/title.jpg)](/recipe/gruyere-shrimp-risotto/)

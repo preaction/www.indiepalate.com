@@ -55,8 +55,8 @@ Season with salt and black pepper to taste.
 * Substitute 2-3 slices of bacon for the initial olive oil for
   a different flavor
 * Add 1 lb of browned Italian sausage
-* Add 1 c of red lentils with the tomatoes and everything to add some
-  extra protein, but skip the blending step
+* Add 1 c of red lentils and 2 c water with the tomatoes and everything
+  to add some extra protein, but skip the blending step
 
 ## Images
 

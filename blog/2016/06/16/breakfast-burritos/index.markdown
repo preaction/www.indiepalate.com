@@ -23,4 +23,4 @@ minute, freshly-made breakfast. Maybe I need to start getting into the
 habit...
 
 ![Breakfast burrito with egg, mushroom, and onion on
-a plate](glamour.jpg)
+a plate](title.jpg)

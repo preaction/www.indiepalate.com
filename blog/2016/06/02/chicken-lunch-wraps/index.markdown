@@ -1,5 +1,5 @@
 ---
-tags: recipe, chicken, tortilla
+tags: report, chicken, tortilla
 title: Chicken Lunch Wraps
 ---
 

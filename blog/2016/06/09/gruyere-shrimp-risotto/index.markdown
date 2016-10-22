@@ -1,5 +1,5 @@
 ---
-tags: cheese, shrimp, rice
+tags: recipe, cheese, shrimp, rice
 title: Gruyere Shrimp Risotto
 ---
 

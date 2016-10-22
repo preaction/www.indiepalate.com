@@ -119,6 +119,8 @@ And finally the cheese.
 
 Mix it all together, and it's done!
 
+![Gruyere shrimp risotto on a plate with mushroom chicken and roasted cauliflower](glamour.jpg)
+
 ## Serve With
 
 * Chicken

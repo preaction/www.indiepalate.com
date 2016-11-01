@@ -1,5 +1,5 @@
 ---
-tags: report, chicken, mushrooms, easy
+tags: report, chicken, mushroom, easy
 title: Poulet au Vin Blanc
 ---
 

@@ -1,5 +1,5 @@
 ---
-tags: report, chicken, spicy, easy, rice
+tags: report, chicken, spicy, easy, rice, slow cooker
 title: Buffalo Chicken Bowls
 ---
 

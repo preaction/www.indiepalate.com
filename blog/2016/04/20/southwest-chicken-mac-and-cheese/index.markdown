@@ -36,6 +36,8 @@ flavor, especially when you get some nice browning.
 
 ![Southwest Chicken Mac and Cheese](glamour.jpg)
 
+---
+
 # Ingredients
 
 ![Ingredients for Southwest Chicken Mac and Cheese](ingredients.jpg)

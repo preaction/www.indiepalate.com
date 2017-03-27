@@ -13,7 +13,7 @@ a fridge and used the next day (or even, gasp, two or three days later).
 It's easy:
 
 1. Buy an extra red pepper
-2. Chop it up with the rest of the red peppers from [Chicken Paprikash](/blog/2017/03/20/chicken-paprikash/index.markdown)
+2. Chop it up with the rest of the red peppers from [Chicken Paprikash](/blog/2017/03/20/chicken-paprikash/)
 3. Put the extra chopped peppers in a sealed container
 4. Add to eggs and breakfast potatoes
 

@@ -2,7 +2,7 @@
 status: published
 tags:
   - report
-  - eggs
+  - egg
 title: Ham and Pepper Frittata
 ---
 
